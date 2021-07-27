@@ -1,1 +1,1 @@
-# miniPaint
+자바 Swing으로 그림판 기능을 구현하였다
